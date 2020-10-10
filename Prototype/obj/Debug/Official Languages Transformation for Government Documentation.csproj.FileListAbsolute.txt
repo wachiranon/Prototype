@@ -1,0 +1,13 @@
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Official Languages Transformation for Government Documentation.exe.config
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Official Languages Transformation for Government Documentation.exe
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Official Languages Transformation for Government Documentation.pdb
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\IronPdf.dll
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\IronPdf.xml
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Translation_form.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Select_form.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Official Languages Transformation for Government Documentation.csproj.GenerateResource.cache
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Official Languages Transformation for Government Documentation.csproj.CoreCompileInputs.cache
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Official Languages Transformation for Government Documentation.csproj.CopyComplete
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Official Languages Transformation for Government Documentation.exe
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Official Languages Transformation for Government Documentation.pdb

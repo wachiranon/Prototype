@@ -1,0 +1,14 @@
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Prototype.exe.config
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Prototype.exe
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\Prototype.pdb
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.exe
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.pdb
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Translation_form.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.Select_form.resources
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\IronPdf.dll
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\bin\Debug\IronPdf.xml
+E:\Work\com\499\cut_and_transformation\Prototype\Prototype\obj\Debug\Prototype.csproj.CopyComplete

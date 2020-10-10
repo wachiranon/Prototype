@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Official Languages Transformation for Government Documentation", "Prototype\Official Languages Transformation for Government Documentation.csproj", "{F873D4EC-C4C6-49DB-92EE-7D869F19099F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup1\Setup1.vdproj", "{A41FD04C-2BE9-4551-9C11-8567A7E5E1AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F873D4EC-C4C6-49DB-92EE-7D869F19099F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F873D4EC-C4C6-49DB-92EE-7D869F19099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F873D4EC-C4C6-49DB-92EE-7D869F19099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F873D4EC-C4C6-49DB-92EE-7D869F19099F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41FD04C-2BE9-4551-9C11-8567A7E5E1AC}.Debug|Any CPU.ActiveCfg = Debug
+		{A41FD04C-2BE9-4551-9C11-8567A7E5E1AC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C87316-ED8B-4BFA-9AA7-214E35FD51DE}
+	EndGlobalSection
+EndGlobal
